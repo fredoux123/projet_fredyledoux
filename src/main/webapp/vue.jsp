@@ -11,5 +11,6 @@
     <title>Vue test commit</title>
 </head>
 <body>
+     <h1>Bienvenue dans la page Vue.jsp</h1>
 </body>
 </html>
